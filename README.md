@@ -7,7 +7,9 @@ Se pretende identificar patrones con ayuda de valores establecidos para la sinto
 ## Estudiantes 
 
 -ADRIANA ISABEL RIOS MAZO C.C 1044509774
+
 -MARIA CAMILA LOPERA MARTÍNEZ C.C 1044507600
+
 -SARA PÉREZ HIGUITA  C.C 1152471199
 
 ## Set de datos 
