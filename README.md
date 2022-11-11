@@ -8,4 +8,4 @@ SARA PÉREZ HIGUITA  1152471199
 Dataset: https://www.kaggle.com/datasets/salikhussaini49/prediction-of-sepsis
 
 
-Colab [Abrir en colab](https://www.youtube.com/watch?v=-VlW7cWJ-58&ab_channel=FelipeRestrepo)
+Colab [Abrir en colab](https://colab.research.google.com/drive/1gzx6JX5oagV_ZqHH7bof3GoTPxYAnIGS?hl=es#scrollTo=tK-seimrB3ta)
