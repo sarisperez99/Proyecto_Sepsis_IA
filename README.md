@@ -18,10 +18,6 @@ El set de datos que se va a emplear es [Preduction of Sepsis](https://www.kaggle
 
 Colab [Abrir en colab](https://colab.research.google.com/drive/1gzx6JX5oagV_ZqHH7bof3GoTPxYAnIGS?hl=es#scrollTo=tK-seimrB3ta)
 
-##Entregas 
 
--[Primera entrega]()
--[Segundo entrega]()
--[Entrega final]()
 
 
