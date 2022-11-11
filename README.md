@@ -21,5 +21,8 @@ El set de datos que se va a emplear es [Preduction of Sepsis](https://www.kaggle
 NoteBook Predicción de la sepsis [Open in colab](https://colab.research.google.com/drive/1gzx6JX5oagV_ZqHH7bof3GoTPxYAnIGS?hl=es#scrollTo=tK-seimrB3ta)
 
 
+## Videos
 
+Primer Video [Ver](https://youtu.be/Ea68LxcFf0Q)
+Video entrega final [Ver]()
 
