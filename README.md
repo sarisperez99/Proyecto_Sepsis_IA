@@ -6,3 +6,6 @@ Estudiantes: ADRIANA ISABEL RIOS MAZO 1044509774
 MARIA CAMILA LOPERA MARTÍNEZ 1044507600
 SARA PÉREZ HIGUITA  1152471199
 Dataset: https://www.kaggle.com/datasets/salikhussaini49/prediction-of-sepsis
+
+
+Colab [Abrir en colab](https://www.youtube.com/watch?v=-VlW7cWJ-58&ab_channel=FelipeRestrepo)
