@@ -29,7 +29,7 @@ Video entrega final [Ver]()
 
 ## Entregas 
 
-[Primera entrega]()
+[Primera entrega](https://github.com/sarisperez99/Proyecto_Sepsis_IA/blob/main/PROYECTO_ENTREGA1.pdf)
 
 [Segunda Entrega]()
 
