@@ -23,6 +23,7 @@ NoteBook Predicción de la sepsis [Open in colab](https://colab.research.google.
 
 ## Videos
 
-Primer Video [Ver](https://youtu.be/Ea68LxcFf0Q)
+Primer Video [Ver]()
+
 Video entrega final [Ver]()
 
