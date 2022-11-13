@@ -35,5 +35,5 @@ Video entrega final [Ver]()
 
 [Segunda Entrega](https://github.com/sarisperez99/Proyecto_Sepsis_IA/blob/main/PROYECTO_ENTREGA2.pdf)
 
-[Tercera Entrega]()
+[Tercera Entrega](https://github.com/sarisperez99/Proyecto_Sepsis_IA/blob/main/PROYECTO_INFORME_FINAL.pdf)
 
